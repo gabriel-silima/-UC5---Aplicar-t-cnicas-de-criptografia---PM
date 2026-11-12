@@ -1,13 +1,13 @@
-# Como adicionar materiais da UC5
+# Manutenção do acervo
 
-1. Encontre a pasta do assunto no README.
-2. Preserve os arquivos recebidos. Use nomes sem espaços e sem acentos nos caminhos para facilitar o uso no terminal.
-3. Antes de importar, confira o título e o link no catálogo para evitar duplicação.
-4. Adicione ou atualize o registro em `catalogo/materiais.json` e `catalogo/materiais.csv`. Use `download_pendente` quando só houver o link; use `copia_salva` quando os bytes estiverem presentes.
-5. Registre o SHA-256 e o tamanho. No PowerShell: `Get-FileHash -Algorithm SHA256 -LiteralPath "caminho-do-arquivo"` e `(Get-Item -LiteralPath "caminho-do-arquivo").Length`.
-6. Atualize os índices Markdown e os totais do README.
-7. Para versões revisadas de materiais, mantenha a origem, descreva a alteração e faça um commit com mensagem clara.
+Preserve a estrutura do Classroom: `classroom/mural/` e `classroom/atividades/nenhum-tema/`. Não reagrupe os anexos por assunto sem uma nova solicitação.
 
-Práticas e evidências ficam em `registros/AAAA-MM-DD-assunto/`. Registre o resultado observado; não marque uma prática como concluída sem sua execução. Não envie senhas, tokens, chaves privadas de uso real ou arquivos de ambiente para o repositório público.
+1. Identifique a publicação e a posição do anexo.
+2. Preserve o nome recebido e o conteúdo original em `anexos/`.
+3. No catálogo JSON e CSV, registre origem, seção, publicação, data, ordem, caminho, tamanho e SHA-256.
+4. Use `download_pendente` até que o arquivo esteja presente. `copia_salva` exige bytes verificados. Uma referência externa não é uma cópia.
+5. Atualize os índices Markdown, as pendências e os totais do README juntos.
 
-Os materiais de terceiros mantêm sua autoria. Arquivos grandes, especialmente vídeos e máquinas virtuais, precisam de uma estratégia de armazenamento apropriada antes de sua inclusão no Git.
+No PowerShell, obtenha a integridade com `Get-FileHash -Algorithm SHA256 -LiteralPath "caminho-do-arquivo"` e o tamanho com `(Get-Item -LiteralPath "caminho-do-arquivo").Length`.
+
+Registros de práticas ficam em `registros/`. Não marque uma prática como executada sem evidência. Materiais de terceiros mantêm sua autoria. Senhas, tokens e chaves privadas de uso real não devem ser incluídos no repositório público.

@@ -1,0 +1,315 @@
+{
+  "conferido_em": "2026-11-12",
+  "ordem": "Classroom, de cima para baixo",
+  "mural": [
+    {
+      "ordem": 1,
+      "titulo": "Criptografia Assimétrica",
+      "data": "2026-11-12",
+      "pasta": "classroom/mural/01-2026-11-12-criptografia-assimetrica",
+      "ids": [],
+      "atividade": "classroom/atividades/nenhum-tema/01-criptografia-assimetrica"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Números Primos e Criptografia",
+      "data": "2026-11-11",
+      "pasta": "classroom/mural/02-2026-11-11-numeros-primos-e-criptografia",
+      "ids": [
+        "UC5-056",
+        "UC5-057",
+        "UC5-001",
+        "UC5-002",
+        "UC5-003"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 3,
+      "titulo": "Atividade prática - Arquivos TXT com AES",
+      "data": "2026-11-10",
+      "pasta": "classroom/mural/03-2026-11-10-atividade-pratica-arquivos-txt-com-aes",
+      "ids": [
+        "UC5-004",
+        "UC5-005"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 4,
+      "titulo": "Atividade - AES com a biblioteca Fernet",
+      "data": "2026-11-10",
+      "pasta": "classroom/mural/04-2026-11-10-atividade-aes-com-a-biblioteca-fernet",
+      "ids": [
+        "UC5-006",
+        "UC5-007"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 5,
+      "titulo": "AES",
+      "data": "2026-11-10",
+      "pasta": "classroom/mural/05-2026-11-10-aes",
+      "ids": [
+        "UC5-008",
+        "UC5-009",
+        "UC5-010"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 6,
+      "titulo": "Algoritmos de Criptografia com Python",
+      "data": "2026-11-10",
+      "pasta": "classroom/mural/06-2026-11-10-algoritmos-de-criptografia-com-python",
+      "ids": [
+        "UC5-011",
+        "UC5-012",
+        "UC5-013"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 7,
+      "titulo": "Atividade em grupo — Criar um painel colaborativo no Padlet",
+      "data": "2026-11-05",
+      "pasta": "classroom/mural/07-2026-11-05-atividade-em-grupo-criar-um-painel-colaborativo-no-padlet",
+      "ids": [
+        "UC5-014"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 8,
+      "titulo": "Packet Tracer – Verificações de integridade de arquivos e dados",
+      "data": "2026-11-04",
+      "pasta": "classroom/mural/08-2026-11-04-packet-tracer-verificacoes-de-integridade-de-arquivos-e-dados",
+      "ids": [
+        "UC5-015",
+        "UC5-016"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 9,
+      "titulo": "Laboratório - Hasheando as coisas",
+      "data": "2026-11-03",
+      "pasta": "classroom/mural/09-2026-11-03-laboratorio-hasheando-as-coisas",
+      "ids": [
+        "UC5-017"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 10,
+      "titulo": "Integridade e Autenticação - Hash",
+      "data": "2026-11-03",
+      "pasta": "classroom/mural/10-2026-11-03-integridade-e-autenticacao-hash",
+      "ids": [
+        "UC5-018"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 11,
+      "titulo": "Laboratório - Determinar o algoritmo de criptografia a ser usado",
+      "data": "2026-11-03",
+      "pasta": "classroom/mural/11-2026-11-03-laboratorio-determinar-o-algoritmo-de-criptografia-a-ser-usado",
+      "ids": [
+        "UC5-019"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 12,
+      "titulo": "Laboratório - Criptografar e descriptografar dados usando uma ferramenta de hacker",
+      "data": "2026-10-28",
+      "pasta": "classroom/mural/12-2026-10-28-laboratorio-criptografar-e-descriptografar-dados-usando-uma-ferramenta-de-hacker",
+      "ids": [
+        "UC5-020"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 13,
+      "titulo": "Laboratório - Criptografando e descriptografando dados usando OpenSSL",
+      "data": "2026-10-28",
+      "pasta": "classroom/mural/13-2026-10-28-laboratorio-criptografando-e-descriptografando-dados-usando-openssl",
+      "ids": [
+        "UC5-021"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 14,
+      "titulo": "Laboratório - Examinando Telnet e SSH com Wireshark",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/14-2026-10-27-laboratorio-examinando-telnet-e-ssh-com-wireshark",
+      "ids": [
+        "UC5-022"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 15,
+      "titulo": "Laboratório - Use a esteganografia para ocultar dados",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/15-2026-10-27-laboratorio-use-a-esteganografia-para-ocultar-dados",
+      "ids": [
+        "UC5-023"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 16,
+      "titulo": "Links de VM e Packet Tracer",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/16-2026-10-27-links-de-vm-e-packet-tracer",
+      "ids": [
+        "UC5-058"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 17,
+      "titulo": "Laboratório - Use algoritmos de criptografia clássica e moderna",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/17-2026-10-27-laboratorio-use-algoritmos-de-criptografia-classica-e-moderna",
+      "ids": [
+        "UC5-024"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 18,
+      "titulo": "CrypTool-Online",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/18-2026-10-27-cryptool-online",
+      "ids": [
+        "UC5-059"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 19,
+      "titulo": "Slides do módulo de Criptografia",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/19-2026-10-27-slides-do-modulo-de-criptografia",
+      "ids": [
+        "UC5-025"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 20,
+      "titulo": "Atividade 2 - Esteganografia",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/20-2026-10-27-atividade-2-esteganografia",
+      "ids": [],
+      "atividade": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia"
+    },
+    {
+      "ordem": 21,
+      "titulo": "Atividade 1 - Cifra de César",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/21-2026-10-27-atividade-1-cifra-de-cesar",
+      "ids": [],
+      "atividade": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar"
+    },
+    {
+      "ordem": 22,
+      "titulo": "Slides - Cifra de César",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/22-2026-10-27-slides-cifra-de-cesar",
+      "ids": [
+        "UC5-026"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 23,
+      "titulo": "Introdução à Criptografia - Prof. Taynan",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/23-2026-10-27-introducao-a-criptografia-prof-taynan",
+      "ids": [
+        "UC5-027"
+      ],
+      "atividade": null
+    },
+    {
+      "ordem": 24,
+      "titulo": "Conceitos iniciais",
+      "data": "2026-10-27",
+      "pasta": "classroom/mural/24-2026-10-27-conceitos-iniciais",
+      "ids": [
+        "UC5-028"
+      ],
+      "atividade": null
+    }
+  ],
+  "atividades": [
+    {
+      "ordem": 1,
+      "titulo": "Criptografia Assimétrica",
+      "data": "2026-11-12",
+      "id": 63,
+      "ids": [
+        60
+      ],
+      "prazo": "2026-11-12",
+      "pontos": 100,
+      "pasta": "classroom/atividades/nenhum-tema/01-criptografia-assimetrica",
+      "url": "https://classroom.google.com/c/ODk2MTkxMjY4MTQw/a/ODgzNDE1OTU3ODQ1/details"
+    },
+    {
+      "ordem": 2,
+      "titulo": "Atividade 2 - Esteganografia",
+      "data": "2026-10-27",
+      "id": 62,
+      "ids": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "prazo": null,
+      "pontos": 100,
+      "pasta": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia",
+      "url": "https://classroom.google.com/c/ODk2MTkxMjY4MTQw/a/ODk2MTk1ODg3NzQ1/details"
+    },
+    {
+      "ordem": 3,
+      "titulo": "Atividade 1 - Cifra de César",
+      "data": "2026-10-27",
+      "id": 61,
+      "ids": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "prazo": null,
+      "pontos": null,
+      "pasta": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar",
+      "url": "https://classroom.google.com/c/ODk2MTkxMjY4MTQw/a/ODgzMTQwNDA4NzA5/details"
+    }
+  ]
+}

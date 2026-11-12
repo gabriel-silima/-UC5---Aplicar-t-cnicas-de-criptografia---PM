@@ -9,11 +9,15 @@
       "titulo": "Atividade - A Matemática por Trás da Segurança Digital.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1qtW335KCkVqePeJhPEjMUlmlvE1WZTty/view?usp=classroom_web&authuser=0",
-      "caminho": "06-numeros-primos-rsa/materiais/atividade-a-matematica-por-tras-da-seguranca-digital.pdf",
+      "caminho": "classroom/mural/02-2026-11-11-numeros-primos-e-criptografia/anexos/Atividade - A Matemática por Trás da Segurança Digital.pdf",
       "status": "copia_salva",
       "origem_copia": "Arquivo fornecido anteriormente pelo usuário; sem comparação binária com o Drive atual.",
       "sha256": "93286ec95c0772ff1380d2ffe714d185e307167b532609dfdc5e3640443ea9de",
-      "tamanho_bytes": 109412
+      "tamanho_bytes": 109412,
+      "secao_classroom": "Mural",
+      "publicacao": "Números Primos e Criptografia",
+      "data_publicacao": "2026-11-11",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-002",
@@ -21,11 +25,15 @@
       "titulo": "Matemática e Segurança Digital.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/18i9alLOnVpB4oNSYgiRdhy1B1GsBu-tF/view?usp=classroom_web&authuser=0",
-      "caminho": "06-numeros-primos-rsa/materiais/matematica-e-seguranca-digital.pdf",
+      "caminho": "classroom/mural/02-2026-11-11-numeros-primos-e-criptografia/anexos/Matemática e Segurança Digital.pdf",
       "status": "copia_salva",
       "origem_copia": "Arquivo fornecido anteriormente pelo usuário; sem comparação binária com o Drive atual.",
       "sha256": "08f51edbaf877ac6dabf63e19c2d0c2faa1e454648197d6376cca1a91dccd181",
-      "tamanho_bytes": 1161104
+      "tamanho_bytes": 1161104,
+      "secao_classroom": "Mural",
+      "publicacao": "Números Primos e Criptografia",
+      "data_publicacao": "2026-11-11",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-003",
@@ -33,11 +41,15 @@
       "titulo": "CriptoPrimos.py",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/15S7XQj9D8sJuedr5LQ5dDTwTyyMmnx7V/view?usp=classroom_web&authuser=0",
-      "caminho": "06-numeros-primos-rsa/codigos/criptoprimos.py",
+      "caminho": "classroom/mural/02-2026-11-11-numeros-primos-e-criptografia/anexos/CriptoPrimos.py",
       "status": "copia_salva",
       "origem_copia": "Arquivo fornecido anteriormente pelo usuário; sem comparação binária com o Drive atual.",
       "sha256": "13dde414d99252532684aa89ce3aef70d3126589bfb1a972454a6c6b06896e44",
-      "tamanho_bytes": 3437
+      "tamanho_bytes": 3437,
+      "secao_classroom": "Mural",
+      "publicacao": "Números Primos e Criptografia",
+      "data_publicacao": "2026-11-11",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-004",
@@ -45,11 +57,15 @@
       "titulo": "Atividade prática - Criptografia e Descriptografia de Arquivos TXT com AES em Python.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1pAcrxSuqkwI5401cPivonCdaSptVmFLk/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/atividade-pratica-criptografia-e-descriptografia-de-arquivos-txt-com-aes-em-python.pdf",
+      "caminho": "classroom/mural/03-2026-11-10-atividade-pratica-arquivos-txt-com-aes/anexos/Atividade prática - Criptografia e Descriptografia de Arquivos TXT com AES em Python.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Atividade prática - Arquivos TXT com AES",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-005",
@@ -57,11 +73,15 @@
       "titulo": "Criptografar.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1pHDw55YYJLK_VOtWJUOvfCI9u_SG5n8d/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/criptografar.txt",
+      "caminho": "classroom/mural/03-2026-11-10-atividade-pratica-arquivos-txt-com-aes/anexos/Criptografar.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Atividade prática - Arquivos TXT com AES",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-006",
@@ -69,11 +89,15 @@
       "titulo": "AES biblioteca Fernet.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1qY522RR4Qg3crm46Vsjzcfx4S0HWgo91/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/aes-biblioteca-fernet.pdf",
+      "caminho": "classroom/mural/04-2026-11-10-atividade-aes-com-a-biblioteca-fernet/anexos/AES biblioteca Fernet.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Atividade - AES com a biblioteca Fernet",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 4
     },
     {
       "id": "UC5-007",
@@ -81,11 +105,15 @@
       "titulo": "AES com Fernet.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1AytPWy5rx_ladcYN3IJCyxvaN39GO0g5/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/aes-com-fernet.txt",
+      "caminho": "classroom/mural/04-2026-11-10-atividade-aes-com-a-biblioteca-fernet/anexos/AES com Fernet.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Atividade - AES com a biblioteca Fernet",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 4
     },
     {
       "id": "UC5-008",
@@ -93,11 +121,15 @@
       "titulo": "AES - Vídeo explicativo.mp4",
       "tipo": "Vídeo",
       "url_origem": "https://drive.google.com/file/d/124J64ZTWw83C4ZlUx41u6kpbsZBgE6g5/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/aes-video-explicativo.mp4",
+      "caminho": "classroom/mural/05-2026-11-10-aes/anexos/AES - Vídeo explicativo.mp4",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "AES",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 5
     },
     {
       "id": "UC5-009",
@@ -105,11 +137,15 @@
       "titulo": "NIST_FIPS_197 - AES.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1OxpNd4XBcmfofhjzFM2yjJ_HR7f7D2H2/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/nist-fips-197-aes.pdf",
+      "caminho": "classroom/mural/05-2026-11-10-aes/anexos/NIST_FIPS_197 - AES.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "AES",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 5
     },
     {
       "id": "UC5-010",
@@ -117,11 +153,15 @@
       "titulo": "Slide - Criptografia AES.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1a9-4JyvB5Kp31ignhLmqyi1jsb3tcEfw/view?usp=classroom_web&authuser=0",
-      "caminho": "05-aes-fernet/materiais/slide-criptografia-aes.pdf",
+      "caminho": "classroom/mural/05-2026-11-10-aes/anexos/Slide - Criptografia AES.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "AES",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 5
     },
     {
       "id": "UC5-011",
@@ -129,11 +169,15 @@
       "titulo": "Algoritmos de criptografia 1.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1P3DRkBnMbuRFCFmfmJqMSRwQCsco-G-E/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/algoritmos-de-criptografia-1.pdf",
+      "caminho": "classroom/mural/06-2026-11-10-algoritmos-de-criptografia-com-python/anexos/Algoritmos de criptografia 1.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Algoritmos de Criptografia com Python",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 6
     },
     {
       "id": "UC5-012",
@@ -141,11 +185,15 @@
       "titulo": "Algoritmo 1 - Teste de criptografia.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/19HjThKK9-dlgX8m-ZgwmzuwSI_Bbucao/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/algoritmo-1-teste-de-criptografia.txt",
+      "caminho": "classroom/mural/06-2026-11-10-algoritmos-de-criptografia-com-python/anexos/Algoritmo 1 - Teste de criptografia.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Algoritmos de Criptografia com Python",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 6
     },
     {
       "id": "UC5-013",
@@ -153,11 +201,15 @@
       "titulo": "Cesar 1.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1KG05Lbw3AAsiN291dILS_Ar3pKkbjywn/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/cesar-1.txt",
+      "caminho": "classroom/mural/06-2026-11-10-algoritmos-de-criptografia-com-python/anexos/Cesar 1.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Algoritmos de Criptografia com Python",
+      "data_publicacao": "2026-11-10",
+      "ordem_publicacao": 6
     },
     {
       "id": "UC5-014",
@@ -165,11 +217,15 @@
       "titulo": "Atividade - Padlet.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1r2KerifgVu2K3ylrptrkrJ0W7Yt6MamE/view?usp=classroom_web&authuser=0",
-      "caminho": "09-atividades-colaborativas/materiais/atividade-padlet.pdf",
+      "caminho": "classroom/mural/07-2026-11-05-atividade-em-grupo-criar-um-painel-colaborativo-no-padlet/anexos/Atividade - Padlet.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Atividade em grupo — Criar um painel colaborativo no Padlet",
+      "data_publicacao": "2026-11-05",
+      "ordem_publicacao": 7
     },
     {
       "id": "UC5-015",
@@ -177,11 +233,15 @@
       "titulo": "Verificações de integridade de arquivos e dados (1).pka",
       "tipo": "Binário",
       "url_origem": "https://drive.google.com/file/d/1_faWD2GMkeRF6OXxslnMvBgAQ3yBJslJ/view?usp=classroom_web&authuser=0",
-      "caminho": "08-redes-packet-tracer/materiais/verificacoes-de-integridade-de-arquivos-e-dados-1-.pka",
+      "caminho": "classroom/mural/08-2026-11-04-packet-tracer-verificacoes-de-integridade-de-arquivos-e-dados/anexos/Verificações de integridade de arquivos e dados (1).pka",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Packet Tracer – Verificações de integridade de arquivos e dados",
+      "data_publicacao": "2026-11-04",
+      "ordem_publicacao": 8
     },
     {
       "id": "UC5-016",
@@ -189,11 +249,15 @@
       "titulo": "Packet Tracer – Verificações de integridade de arquivos e dados.docx",
       "tipo": "Microsoft Word",
       "url_origem": "https://drive.google.com/file/d/1dV-88Xl7eiCl0f67yoLHyiT-tPuu8Awy/view?usp=classroom_web&authuser=0",
-      "caminho": "08-redes-packet-tracer/materiais/packet-tracer-verificacoes-de-integridade-de-arquivos-e-dados.docx",
+      "caminho": "classroom/mural/08-2026-11-04-packet-tracer-verificacoes-de-integridade-de-arquivos-e-dados/anexos/Packet Tracer – Verificações de integridade de arquivos e dados.docx",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Packet Tracer – Verificações de integridade de arquivos e dados",
+      "data_publicacao": "2026-11-04",
+      "ordem_publicacao": 8
     },
     {
       "id": "UC5-017",
@@ -201,11 +265,15 @@
       "titulo": "Laboratório - Hasheando as coisas.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1FZgwxMiT2yCYtGahNcP7Jtk_BNEanN_1/view?usp=classroom_web&authuser=0",
-      "caminho": "04-hashes-integridade/materiais/laboratorio-hasheando-as-coisas.pdf",
+      "caminho": "classroom/mural/09-2026-11-03-laboratorio-hasheando-as-coisas/anexos/Laboratório - Hasheando as coisas.pdf",
       "status": "copia_salva",
       "origem_copia": "PDF recuperado do acervo parcial fornecido anteriormente; sem comparação binária com o Drive atual.",
       "sha256": "2839d8a58c122e88647b7e4f1028f8ad4f7387d755482eff6c42ffb992761437",
-      "tamanho_bytes": 256599
+      "tamanho_bytes": 256599,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Hasheando as coisas",
+      "data_publicacao": "2026-11-03",
+      "ordem_publicacao": 9
     },
     {
       "id": "UC5-018",
@@ -213,11 +281,15 @@
       "titulo": "Integridade e Autenticação.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1tke5BeP7f4MvG5sIsAqQ8wM3bKphwXxd/view?usp=classroom_web&authuser=0",
-      "caminho": "04-hashes-integridade/materiais/integridade-e-autenticacao.pdf",
+      "caminho": "classroom/mural/10-2026-11-03-integridade-e-autenticacao-hash/anexos/Integridade e Autenticação.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Integridade e Autenticação - Hash",
+      "data_publicacao": "2026-11-03",
+      "ordem_publicacao": 10
     },
     {
       "id": "UC5-019",
@@ -225,11 +297,15 @@
       "titulo": "Laboratório - Determinar o algoritmo de criptografia a ser usado.docx",
       "tipo": "Microsoft Word",
       "url_origem": "https://drive.google.com/file/d/16uLhW94jtF2bx6_aOj3d4YtZKEJeSj0U/view?usp=classroom_web&authuser=0",
-      "caminho": "07-openssl/materiais/laboratorio-determinar-o-algoritmo-de-criptografia-a-ser-usado.docx",
+      "caminho": "classroom/mural/11-2026-11-03-laboratorio-determinar-o-algoritmo-de-criptografia-a-ser-usado/anexos/Laboratório - Determinar o algoritmo de criptografia a ser usado.docx",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Determinar o algoritmo de criptografia a ser usado",
+      "data_publicacao": "2026-11-03",
+      "ordem_publicacao": 11
     },
     {
       "id": "UC5-020",
@@ -237,11 +313,15 @@
       "titulo": "Laboratório - Criptografar e descriptografar dados usando uma ferramenta de hacker.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1xOd8oiv3zC_ARxvAjNqhQFC_I2SNfp_C/view?usp=classroom_web&authuser=0",
-      "caminho": "07-openssl/materiais/laboratorio-criptografar-e-descriptografar-dados-usando-uma-ferramenta-de-hacker.pdf",
+      "caminho": "classroom/mural/12-2026-10-28-laboratorio-criptografar-e-descriptografar-dados-usando-uma-ferramenta-de-hacker/anexos/Laboratório - Criptografar e descriptografar dados usando uma ferramenta de hacker.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Criptografar e descriptografar dados usando uma ferramenta de hacker",
+      "data_publicacao": "2026-10-28",
+      "ordem_publicacao": 12
     },
     {
       "id": "UC5-021",
@@ -249,11 +329,15 @@
       "titulo": "Laboratório - Criptografando e descriptografando dados usando OpenSSL.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1oclgZ__fxwdiuAYuXSfd8F6CkQaaj7e_/view?usp=classroom_web&authuser=0",
-      "caminho": "07-openssl/materiais/laboratorio-criptografando-e-descriptografando-dados-usando-openssl.pdf",
+      "caminho": "classroom/mural/13-2026-10-28-laboratorio-criptografando-e-descriptografando-dados-usando-openssl/anexos/Laboratório - Criptografando e descriptografando dados usando OpenSSL.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Criptografando e descriptografando dados usando OpenSSL",
+      "data_publicacao": "2026-10-28",
+      "ordem_publicacao": 13
     },
     {
       "id": "UC5-022",
@@ -261,11 +345,15 @@
       "titulo": "Laboratório - Examinando Telnet e SSH com Wireshark.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1n1zBbhzm_JJpW61dLB81NwUaaJeJMM7W/view?usp=classroom_web&authuser=0",
-      "caminho": "08-redes-packet-tracer/materiais/laboratorio-examinando-telnet-e-ssh-com-wireshark.pdf",
+      "caminho": "classroom/mural/14-2026-10-27-laboratorio-examinando-telnet-e-ssh-com-wireshark/anexos/Laboratório - Examinando Telnet e SSH com Wireshark.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Examinando Telnet e SSH com Wireshark",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 14
     },
     {
       "id": "UC5-023",
@@ -273,11 +361,15 @@
       "titulo": "Laboratório - Use a esteganografia para ocultar dados.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/175HOlsPyyFIY1Skt_4l2DUcdwiulQNNq/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/laboratorio-use-a-esteganografia-para-ocultar-dados.pdf",
+      "caminho": "classroom/mural/15-2026-10-27-laboratorio-use-a-esteganografia-para-ocultar-dados/anexos/Laboratório - Use a esteganografia para ocultar dados.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Use a esteganografia para ocultar dados",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 15
     },
     {
       "id": "UC5-024",
@@ -285,11 +377,15 @@
       "titulo": "Laboratório - Use algoritmos de criptografia clássica e moderna.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1xnimLQ80T38dMZB4MqNn95yedz5xUoOj/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/laboratorio-use-algoritmos-de-criptografia-classica-e-moderna.pdf",
+      "caminho": "classroom/mural/17-2026-10-27-laboratorio-use-algoritmos-de-criptografia-classica-e-moderna/anexos/Laboratório - Use algoritmos de criptografia clássica e moderna.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Laboratório - Use algoritmos de criptografia clássica e moderna",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 17
     },
     {
       "id": "UC5-025",
@@ -297,11 +393,15 @@
       "titulo": "Módulo Criptografia.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1b4P9ztObpmkzXfpv4TZOhAogFcC7UznU/view?usp=classroom_web&authuser=0",
-      "caminho": "01-fundamentos/materiais/modulo-criptografia.pdf",
+      "caminho": "classroom/mural/19-2026-10-27-slides-do-modulo-de-criptografia/anexos/Módulo Criptografia.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Slides do módulo de Criptografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 19
     },
     {
       "id": "UC5-026",
@@ -309,11 +409,15 @@
       "titulo": "Cifra de César.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1fWv52Pkgo8hhZ5pjtsj2ME7jE8JANxyH/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/cifra-de-cesar.pdf",
+      "caminho": "classroom/mural/22-2026-10-27-slides-cifra-de-cesar/anexos/Cifra de César.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Slides - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 22
     },
     {
       "id": "UC5-027",
@@ -321,11 +425,15 @@
       "titulo": "Introdução à Criptografia de Dados.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1obeGiVtbzodGVeosTjRTXXLNVPRyrO0Y/view?usp=classroom_web&authuser=0",
-      "caminho": "01-fundamentos/materiais/introducao-a-criptografia-de-dados.pdf",
+      "caminho": "classroom/mural/23-2026-10-27-introducao-a-criptografia-prof-taynan/anexos/Introdução à Criptografia de Dados.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Introdução à Criptografia - Prof. Taynan",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 23
     },
     {
       "id": "UC5-028",
@@ -333,11 +441,15 @@
       "titulo": "Criptografia_conceitos iniciais.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/10CrzcCf-uoy3JNBN6jy4N3fsM9hwTzYQ/view?usp=classroom_web&authuser=0",
-      "caminho": "01-fundamentos/materiais/criptografia-conceitos-iniciais.pdf",
+      "caminho": "classroom/mural/24-2026-10-27-conceitos-iniciais/anexos/Criptografia_conceitos iniciais.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Conceitos iniciais",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 24
     },
     {
       "id": "UC5-029",
@@ -345,11 +457,15 @@
       "titulo": "Cifra de César - Atividade.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1HmwWiMx_saK2wyVTXZ-9m4OtGaqFRwU_/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/cifra-de-cesar-atividade.pdf",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Cifra de César - Atividade.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-030",
@@ -357,11 +473,15 @@
       "titulo": "Cifra de César.xlsx",
       "tipo": "Microsoft Excel",
       "url_origem": "https://drive.google.com/file/d/10T4Mlv4pJbwGyGibY0wssLkIBqloGIQm/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/cifra-de-cesar.xlsx",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Cifra de César.xlsx",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-031",
@@ -369,11 +489,15 @@
       "titulo": "Texto 1 – O Mistério da Biblioteca.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1cV9zBTOr_1eQBxIWlqa_tZLvj0gn98CM/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/texto-1-o-misterio-da-biblioteca.txt",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Texto 1 – O Mistério da Biblioteca.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-032",
@@ -381,11 +505,15 @@
       "titulo": "Texto 2 – A Mensagem do Cofre.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1hga1cCgKX9lb3zAfy_F-__A5QO0E9KD5/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/texto-2-a-mensagem-do-cofre.txt",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Texto 2 – A Mensagem do Cofre.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-033",
@@ -393,11 +521,15 @@
       "titulo": "Texto 3 – Plano de Fuga.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1L1-pn9mNV_uTBY4gudNPzKiBjflEy2NL/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/texto-3-plano-de-fuga.txt",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Texto 3 – Plano de Fuga.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-034",
@@ -405,11 +537,15 @@
       "titulo": "Texto 4 – O Enigma do Laboratório.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1jqlg5nyaovcVDy1yfQhUp8oS2kl0aV6X/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/texto-4-o-enigma-do-laboratorio.txt",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Texto 4 – O Enigma do Laboratório.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-035",
@@ -417,11 +553,15 @@
       "titulo": "Texto 5 – A Sala Secreta.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1c4I4opZxvbw-nsY7ILOC6LCvAWHWG7OP/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/texto-5-a-sala-secreta.txt",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Texto 5 – A Sala Secreta.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-036",
@@ -429,11 +569,15 @@
       "titulo": "Texto 6 – O Código Perdido.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1ci_XH6aV9RnUb4BOyO9NAfNXCfY6dO_i/view?usp=classroom_web&authuser=0",
-      "caminho": "02-cifra-de-cesar/materiais/texto-6-o-codigo-perdido.txt",
+      "caminho": "classroom/atividades/nenhum-tema/03-atividade-1-cifra-de-cesar/anexos/Texto 6 – O Código Perdido.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-037",
@@ -441,11 +585,15 @@
       "titulo": "Imagem -  (3).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1ZkYRZJuCvYuFmWhetScxecZHw_Q--VXM/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-3-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (3).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-038",
@@ -453,11 +601,15 @@
       "titulo": "Imagem -  (4).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/15C7mmAgDeRpFZv9S36GIncJMab7mwkFf/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-4-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (4).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-039",
@@ -465,11 +617,15 @@
       "titulo": "Imagem -  (5).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1c61IG9O0XsBWKv5MQ50f2YXGp2jCUOhP/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-5-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (5).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-040",
@@ -477,11 +633,15 @@
       "titulo": "Imagem -  (6).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1o2A1hSXJ6A_j12sxJzLIFMqMYPBvTXjR/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-6-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (6).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-041",
@@ -489,11 +649,15 @@
       "titulo": "Imagem -  (7).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/18qsy20woubbPnF9U186C5PMXu8LvtIqT/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-7-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (7).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-042",
@@ -501,11 +665,15 @@
       "titulo": "Imagem -  (8).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1UfIACXGz2cyJSx79sSKcNnc1yuPvLR8y/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-8-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (8).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-043",
@@ -513,11 +681,15 @@
       "titulo": "Imagem -  (9).webp",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1uIC7KplSrkPWOUgoe2TcpimXWiR4pmvF/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-9-.webp",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem -  (9).webp",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-044",
@@ -525,11 +697,15 @@
       "titulo": "Imagem - (1).jpg",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1ZeX5k4S7iJ2n0E4JyiTsWlLNcExYfH3S/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-1-.jpg",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem - (1).jpg",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-045",
@@ -537,11 +713,15 @@
       "titulo": "Imagem - (2).jpg",
       "tipo": "Imagem",
       "url_origem": "https://drive.google.com/file/d/1Y7XPx0mhLI6r-AjCTI0XVd4xTfEPWT4G/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/imagem-2-.jpg",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Imagem - (2).jpg",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-046",
@@ -549,11 +729,15 @@
       "titulo": "Jphswin.exe",
       "tipo": "Desconhecido",
       "url_origem": "https://drive.google.com/file/d/1Tk0sShYgF0sjhCxnEfS0XMwacyuQaZJi/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/jphswin.exe",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Jphswin.exe",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-047",
@@ -561,11 +745,15 @@
       "titulo": "RedesComputadores.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1XBS0_r6PRoyqP_BCN9TWIJgFsp1ZwtD9/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/redescomputadores.txt",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/RedesComputadores.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-048",
@@ -573,11 +761,15 @@
       "titulo": "retirado.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1mEHXse6oZTwTI1jUXuHr2by7lPyh60ay/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/retirado.txt",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/retirado.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-049",
@@ -585,11 +777,15 @@
       "titulo": "SegurancaDigital.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1TysDzv1f8GwO2ybZvOvRscq_R3FLZ-tq/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/segurancadigital.txt",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/SegurancaDigital.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-050",
@@ -597,11 +793,15 @@
       "titulo": "Tecnologia.txt",
       "tipo": "Texto",
       "url_origem": "https://drive.google.com/file/d/1PDFLtAkgEzukvvKAIkavEQwlSM905wVZ/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/tecnologia.txt",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Tecnologia.txt",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-051",
@@ -609,11 +809,15 @@
       "titulo": "Esteganografia - cmd - Atividade.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1Wl_L7U_br5zAdWe966sPFccWR537n6WJ/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/esteganografia-cmd-atividade.pdf",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Esteganografia - cmd - Atividade.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-052",
@@ -621,11 +825,15 @@
       "titulo": "Esteganografia - Jphswin - Atividade.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/16yXIshe_KMvjhHHYcsEWomv91y5JcNGS/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/esteganografia-jphswin-atividade.pdf",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Esteganografia - Jphswin - Atividade.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-053",
@@ -633,11 +841,15 @@
       "titulo": "Esteganografia - Texto na Imagem - Atividade.pdf",
       "tipo": "PDF",
       "url_origem": "https://drive.google.com/file/d/1FNYRHbRf5zCq82xW-WK2gFYRu4QL1gju/view?usp=classroom_web&authuser=0",
-      "caminho": "03-esteganografia/materiais/esteganografia-texto-na-imagem-atividade.pdf",
+      "caminho": "classroom/atividades/nenhum-tema/02-atividade-2-esteganografia/anexos/Esteganografia - Texto na Imagem - Atividade.pdf",
       "status": "download_pendente",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-054",
@@ -645,11 +857,15 @@
       "titulo": "rsa_uc5_demo.py",
       "tipo": "Python complementar",
       "url_origem": "",
-      "caminho": "06-numeros-primos-rsa/codigos/rsa_uc5_demo.py",
+      "caminho": "complementares/rsa/rsa_uc5_demo.py",
       "status": "copia_salva",
       "origem_copia": "Demonstração didática criada anteriormente e fornecida pelo usuário. Não é anexo identificado no Classroom.",
       "sha256": "104389b129c1a79edd7e0b94475caf2f39f3d0cb542d0b1cab8b02ac77efb658",
-      "tamanho_bytes": 1332
+      "tamanho_bytes": 1332,
+      "secao_classroom": "Complementares",
+      "publicacao": "Exemplos RSA complementares",
+      "data_publicacao": "",
+      "ordem_publicacao": null
     },
     {
       "id": "UC5-055",
@@ -657,11 +873,15 @@
       "titulo": "rsa_uc5_menu.py",
       "tipo": "Python complementar",
       "url_origem": "",
-      "caminho": "06-numeros-primos-rsa/codigos/rsa_uc5_menu.py",
+      "caminho": "complementares/rsa/rsa_uc5_menu.py",
       "status": "copia_salva",
       "origem_copia": "Demonstração didática criada anteriormente e fornecida pelo usuário. Não é anexo identificado no Classroom.",
       "sha256": "da81d10e3f3a8425b00d21bdfce6afe570c480f2a8c38c9134832896b5bd242b",
-      "tamanho_bytes": 4680
+      "tamanho_bytes": 4680,
+      "secao_classroom": "Complementares",
+      "publicacao": "Exemplos RSA complementares",
+      "data_publicacao": "",
+      "ordem_publicacao": null
     },
     {
       "id": "UC5-056",
@@ -673,7 +893,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Números Primos e Criptografia",
+      "data_publicacao": "2026-11-11",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-057",
@@ -685,7 +909,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Números Primos e Criptografia",
+      "data_publicacao": "2026-11-11",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-058",
@@ -697,7 +925,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "Links de VM e Packet Tracer",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 16
     },
     {
       "id": "UC5-059",
@@ -709,7 +941,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Mural",
+      "publicacao": "CrypTool-Online",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 18
     },
     {
       "id": "UC5-060",
@@ -721,7 +957,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Criptografia Assimétrica",
+      "data_publicacao": "2026-11-12",
+      "ordem_publicacao": 1
     },
     {
       "id": "UC5-061",
@@ -733,7 +973,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 1 - Cifra de César",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 3
     },
     {
       "id": "UC5-062",
@@ -745,7 +989,11 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Atividade 2 - Esteganografia",
+      "data_publicacao": "2026-10-27",
+      "ordem_publicacao": 2
     },
     {
       "id": "UC5-063",
@@ -757,7 +1005,14 @@
       "status": "link_externo",
       "origem_copia": "",
       "sha256": "",
-      "tamanho_bytes": null
+      "tamanho_bytes": null,
+      "secao_classroom": "Atividades / Nenhum tema",
+      "publicacao": "Criptografia Assimétrica",
+      "data_publicacao": "2026-11-12",
+      "ordem_publicacao": 1
     }
-  ]
+  ],
+  "organizacao": "Espelho do Classroom: Mural e Atividades / Nenhum tema",
+  "publicacoes_mural": 24,
+  "atividades": 3
 }
